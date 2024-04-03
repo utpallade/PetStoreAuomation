@@ -1,0 +1,29 @@
+12:12:52.478 [main] INFO  api.test.UserTestslog - ------ Creating User------
+12:12:58.657 [main] INFO  api.test.UserTestslog - ------User Created------
+12:12:58.675 [main] INFO  api.test.UserTestslog - ------ Getting User------
+12:13:01.445 [main] INFO  api.test.UserTestslog - ------User displayed------
+12:13:01.452 [main] INFO  api.test.UserTestslog - ------ updating User------
+12:13:03.999 [main] INFO  api.test.UserTestslog - ------ updated User------
+12:13:04.008 [main] INFO  api.test.UserTestslog - ------ Deleting User------
+12:13:06.252 [main] INFO  api.test.UserTestslog - ------ Deleted User------
+12:13:59.245 [main] INFO  api.test.UserTestslog - ------ Creating User------
+12:14:02.988 [main] INFO  api.test.UserTestslog - ------User Created------
+12:14:03.002 [main] INFO  api.test.UserTestslog - ------ Getting User------
+12:14:06.056 [main] INFO  api.test.UserTestslog - ------User displayed------
+12:14:06.061 [main] INFO  api.test.UserTestslog - ------ updating User------
+12:14:08.922 [main] INFO  api.test.UserTestslog - ------ updated User------
+12:14:08.926 [main] INFO  api.test.UserTestslog - ------ Deleting User------
+12:14:11.482 [main] INFO  api.test.UserTestslog - ------ Deleted User------
+12:15:57.053 [main] DEBUG api.test.UserTestslog - This is a debug message
+12:15:57.055 [main] INFO  api.test.UserTestslog - This is an info message
+12:15:57.055 [main] WARN  api.test.UserTestslog - This is a warning message
+12:15:57.055 [main] ERROR api.test.UserTestslog - This is an error message
+12:15:57.055 [main] FATAL api.test.UserTestslog - This is a fatal message
+12:15:57.070 [main] INFO  api.test.UserTestslog - ------ Creating User------
+12:16:01.839 [main] INFO  api.test.UserTestslog - ------User Created------
+12:16:01.850 [main] INFO  api.test.UserTestslog - ------ Getting User------
+12:16:04.742 [main] INFO  api.test.UserTestslog - ------User displayed------
+12:16:04.751 [main] INFO  api.test.UserTestslog - ------ updating User------
+12:16:07.299 [main] INFO  api.test.UserTestslog - ------ updated User------
+12:16:07.303 [main] INFO  api.test.UserTestslog - ------ Deleting User------
+12:16:10.164 [main] INFO  api.test.UserTestslog - ------ Deleted User------
