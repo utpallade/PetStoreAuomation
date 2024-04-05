@@ -5,10 +5,10 @@ import org.testng.annotations.BeforeClass;
 import org.testng.annotations.Test;
 
 import com.github.javafaker.Faker;
-import io.restassured.response.Response;
-import api.endpoints.UserEndPoints;
+
 import api.endpoints.UserEndPoints2;
 import api.payload.User;
+import io.restassured.response.Response;
 
 public class UserTests2 {
 	
